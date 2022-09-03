@@ -455,7 +455,7 @@ Audio(audio_signal, sr=FREQ)
 
 
     
-![png](images/Supervised%20learning_9_1.png)
+![png](Supervised%20learning_files/Supervised%20learning_9_1.png)
     
 
 
@@ -514,7 +514,7 @@ Audio(audio_signal, sr=FREQ)
 
 
     
-![png](images/Supervised%20learning_11_1.png)
+![png](Supervised%20learning_files/Supervised%20learning_11_1.png)
     
 
 
