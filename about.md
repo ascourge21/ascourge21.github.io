@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 I'm a computer vision / machine learning scientist applying my trade to medical imaging. 
-I work at [Caption Health](https://captionhealth.com/), developing deep learning models for Lung Ultrasound Imaging.
+I work at [Caption Health](https://captionhealth.com/){:target="_blank"}, developing deep learning models for Lung Ultrasound Imaging.
 
 ### More Information
 In my free time, I watch and play football. I like singing and playing the guitar too.
