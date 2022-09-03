@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a computer vision / machine learning scientist/engineer applying my trade to medical imaging. 
+I'm a computer vision / machine learning scientist applying my trade to medical imaging. 
 I work at [Caption Health](https://captionhealth.com/), developing deep learning models for Lung Ultrasound Imaging.
 
 ### More Information
